@@ -1,0 +1,77 @@
+head{
+    font-size: 0px;
+}
+time{
+    background-color:rgb(14, 252, 212);
+}
+body{
+    background-color:rgb(68, 37, 241);
+    
+}
+h1{
+    background: aquamarine;
+}
+h2{
+    font-size: 0px;
+    font-family: fantasy;
+    background: rgb(253, 127, 16);
+    
+}
+h3{
+    background-color: rgb(241, 104, 40);
+}
+h4{
+    background-color: rgb(95, 52, 95);
+}
+h5{
+    background-color: springgreen;
+}
+p{
+    background-color: rgb(34, 40, 3);
+}
+img{
+    background-color: yellowgreen;
+}
+.idcta-username{ font-size: 0px;}
+.bbccom_display_none {font-size: 0px;}
+.notification-link--triangle{background-color: rgb(130,180,43);
+display: none;}
+.notifications-main{font-size: 0px;}
+.notifications-cta{font-size: 0px;}
+.orb-panel{font-size: 0px;}
+.hp-browser-notify{font-size: 0px;}
+.orb-modules{background-color: rgb(36, 152, 247);}
+.js{font-size: 0px;}
+.orb-foote{background-color: rgb(240, 236, 11);}
+.src{background-color: rgb(245, 100, 33);
+border-bottom: rgb(39, 141, 243);}
+.logo{background-color: rgb(250, 78, 250);}
+.hp-dismissible-nations-links__nation-image{display: none;}
+.hp-module__container{background-color: teal;}
+.top-stories{background-color: #f3275a;}
+.top-story{background-color: cornflowerblue;}
+.top-story__image{background-color: purple; display: none;}
+.orb-search-q{background-color: turquoise;}
+.orb-nav-pri-container{background-color:rgb(23,54,120);}
+.orb-search__button{display: none;}
+.hp-live-badge top-story__live-badge{background-color: teal;}
+
+.hp-module--light-theme{background-color: firebrick !important;
+}
+.top-story__cta{background-color: rgb(252, 166, 7);}
+.hp-tv-radio-asset{background-color: rgb(46, 135, 236);}
+.hp-slider-controls{background-color: rgb(89, 8, 240);}
+.hp-tv-radio-asset__image-wrapper{background-color: rgb(250, 37, 186);}
+.hp-tv-radio-asset__cta{background-color: yellowgreen;
+display: none;}
+.data-image-recipe{background-color: yellow;}
+.hp-module_container{background-color: rgb(250, 59, 11);}
+.hp-tv-radio-progress__rail{background-color: skyblue;}
+.hp-tv-radio-progress__highlight{background-color: rgb(84, 22, 255);}
+.top-story__image-wrapper{background-color: rgb(247, 232, 23);}
+.hp-slider-controls__btn-next{display: none;}
+ .collection-uk-hero-promos-with-ck-and-nations-overrides{background-color: darkseagreen;}
+ .hp-module__container{background-color: firebrick !important;}
+ .orb-nav-pri {background-color: fuchsia;}
+ .hp-module--duo{background-color: firebrick;}
+ .top-story__image top-story__image--lazy{background-color: turquoise;}
